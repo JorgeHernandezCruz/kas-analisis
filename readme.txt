@@ -7,3 +7,4 @@ investigar uso de make para automatizar cosas por modulos y revisar operator de 
 asi como el bash para apagar la compu 
 y el script de python que traduce investigar si puede traducir archivos protegidos
 recisar la actualizacion de hashes 2ha
+crear base de datos en mysql 
